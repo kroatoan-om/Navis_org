@@ -1,2 +1,18 @@
-*Manual for Naviswork using org mode
+#+STARTUP: hideblocks
+#+TITLE: Naviswork Manual
+#+AUTHOR: Antonio Soler Gelde.
+#+EMAIL: antonio.soler@profile-ltd.co.uk
+#+LaTeX_CLASS: asgbook
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil c:nil d:(not "LOGBOOK") date:nil
+#+OPTIONS: e:t email:nil f:t inline:nil num:t p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:t todo:t |:t
+#+CREATOR: Antonio Soler Gelde
+#+DESCRIPTION: A comprehensive manual of Autodesk Naviswork for internal use only
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: english
+#+SELECT_TAGS: export
+#+LaTeX_HEADER: \newcommand{\recuerda}[1]{\begin{center}\fbox{\parbox{0.75\textwidth}{\textbf{Recuerda:} #1}}\end{center}}
 
+*Manual for Naviswork using org mode
